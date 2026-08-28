@@ -1,0 +1,15 @@
+slixmpp-go
+============
+
+This is an independent Go implementation of XMPP concepts and public APIs
+inspired by:
+
+* Slixmpp, Copyright its contributors, MIT License.
+* slixmpp-omemo, Copyright its contributors, AGPL-3.0 License.
+* python-omemo, Copyright its contributors, MIT License.
+
+No Python source code is embedded. Protocol behavior is implemented from the
+public XMPP RFCs/XEPs and documented public interfaces. Protocol names and XML
+namespaces are interoperability identifiers.
+
+SPDX-License-Identifier: AGPL-3.0-or-later
