@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/saret/slixmpp-go/omemo"
+	"github.com/1kamma/slixmpp-go/omemo"
 )
 
 type Backend struct {

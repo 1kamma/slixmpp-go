@@ -64,8 +64,8 @@ import (
     "log"
     "os"
 
-    "github.com/saret/slixmpp-go/xep"
-    "github.com/saret/slixmpp-go/xmpp"
+    "github.com/1kamma/slixmpp-go/xep"
+    "github.com/1kamma/slixmpp-go/xmpp"
 )
 
 func main() {
@@ -267,7 +267,7 @@ round trip, and a local STARTTLS/SASL/bind/presence/message integration test.
 The current module path is:
 
 ```text
-github.com/saret/slixmpp-go
+github.com/1kamma/slixmpp-go
 ```
 
 Change the `module` line and imports before publishing under another namespace.

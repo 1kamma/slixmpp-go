@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/saret/slixmpp-go/xmpp"
+	"github.com/1kamma/slixmpp-go/xmpp"
 )
 
 const (

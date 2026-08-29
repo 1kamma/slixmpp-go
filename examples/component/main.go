@@ -10,8 +10,8 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/saret/slixmpp-go/xep"
-	"github.com/saret/slixmpp-go/xmpp"
+	"github.com/1kamma/slixmpp-go/xep"
+	"github.com/1kamma/slixmpp-go/xmpp"
 )
 
 func main() {

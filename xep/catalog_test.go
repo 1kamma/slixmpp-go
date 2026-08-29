@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/saret/slixmpp-go/xmpp"
+	"github.com/1kamma/slixmpp-go/xmpp"
 )
 
 func TestCatalogUniqueAndLoadable(t *testing.T) {

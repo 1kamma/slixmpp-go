@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/saret/slixmpp-go/xmpp"
+	"github.com/1kamma/slixmpp-go/xmpp"
 )
 
 func BundleNode(device DeviceID) string { return BundleNodePrefix + device.String() }

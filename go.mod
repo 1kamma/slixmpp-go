@@ -1,3 +1,3 @@
-module github.com/saret/slixmpp-go
+module github.com/1kamma/slixmpp-go
 
 go 1.23

@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/saret/slixmpp-go/xep"
+	"github.com/1kamma/slixmpp-go/xep"
 )
 
 func main() {

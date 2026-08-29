@@ -9,10 +9,10 @@ import (
 	"log"
 	"time"
 
-	"github.com/saret/slixmpp-go/omemo"
-	"github.com/saret/slixmpp-go/omemo/testkit"
-	"github.com/saret/slixmpp-go/xep"
-	"github.com/saret/slixmpp-go/xmpp"
+	"github.com/1kamma/slixmpp-go/omemo"
+	"github.com/1kamma/slixmpp-go/omemo/testkit"
+	"github.com/1kamma/slixmpp-go/xep"
+	"github.com/1kamma/slixmpp-go/xmpp"
 )
 
 func main() {

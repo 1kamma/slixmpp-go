@@ -3,7 +3,7 @@ package xep
 import (
 	"testing"
 
-	"github.com/saret/slixmpp-go/xmpp"
+	"github.com/1kamma/slixmpp-go/xmpp"
 )
 
 func TestFormRoundTrip(t *testing.T) {

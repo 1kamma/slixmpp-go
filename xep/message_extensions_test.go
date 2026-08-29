@@ -1,7 +1,7 @@
 package xep
 
 import (
-	"github.com/saret/slixmpp-go/xmpp"
+	"github.com/1kamma/slixmpp-go/xmpp"
 	"testing"
 )
 
